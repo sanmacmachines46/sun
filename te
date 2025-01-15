@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <svg
    width="25mm"
    height="8.035mm"
@@ -302,3 +307,4 @@
          d="m 102.94767,128.35767 c 1.15912,0.11242 2.09155,1.04561 2.70991,1.86552 0.35822,0.47504 3.60415,5.55888 3.48092,5.27874 0.033,-2.38108 0.006,-4.76202 0.0145,-7.14323 1.63639,0 2.16008,1e-5 4.01216,0 v 13.37335 c -0.34829,0.001 -1.10666,0 -2.06499,0 -2.87374,-0.17108 -5.07308,-4.80979 -7.01973,-7.77317 -0.012,2.56123 -0.004,5.21191 -0.006,7.77317 -1.68327,0 -2.33201,0 -4.02405,0 -5.7e-4,-4.75629 -5.1e-4,-6.98948 -5.1e-4,-13.36405 2.399,-0.0162 2.65699,-0.0483 2.8975,-0.0103 z"
          style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
          id="path6" /></g></g></svg>
+</html>
