@@ -1,10 +1,12 @@
-<!DOCTYPE html>
+<<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SUNRISE Ironworker Tonnage Calculator</title>
-<svg
+</head>
+<body>
+    <svg
    width="25mm"
    height="8.035mm"
    viewBox="0 0 113.9807 36.633099"
